@@ -1,4 +1,4 @@
-<img src="images/me.jpg" width="140" align="right" />
+<img src="images/me.jpg" width="200" align="right" />
 
 ### Hi there, I'm [REGIS (aka REYX)](https://github.com/reyx) 👋
 
