@@ -1,6 +1,6 @@
-### Hi there, I'm [REGIS (aka REYX)](https://github.com/reyx) 👋
+<img src="images/me.jpg" width="140" align="right" />
 
-<img src="images/me.jpg" width="180" align="right" />
+### Hi there, I'm [REGIS (aka REYX)](https://github.com/reyx) 👋
 
 🏠 I’m currently living at São Paulo, Brazil 🇧🇷. <br/>
 👨‍💻 I’m currently working as a Lead Software Engineer.<br/>
@@ -20,7 +20,8 @@
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img height="36"  src="icons/docker.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img height="36" src="icons/kubernetes.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
