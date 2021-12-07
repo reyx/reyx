@@ -1,5 +1,3 @@
-<img src="images/me.jpg" width="200" align="right" />
-
 ### Hi there, I'm [REGIS (aka REYX)](https://github.com/reyx) 👋
 
 🏠 I’m currently living at São Paulo, Brazil 🇧🇷. <br/>
