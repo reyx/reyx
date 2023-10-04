@@ -1,6 +1,6 @@
 ### Hi there, I'm [REGIS (aka REYX)](https://github.com/reyx) 👋
 
-🏠 I’m currently living at São Paulo, Brazil 🇧🇷. <br/>
+🏠 I’m currently living at Singapore 🇸🇬. <br/>
 👨‍💻 I’m currently working as a Lead Software Engineer.<br/>
 🌱 I’m continuously learning English 🤦‍♂.<br/>
 👪 I’m father of three. <br/>
