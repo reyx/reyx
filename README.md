@@ -45,6 +45,3 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
 <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
 <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
-
-[![REYX github stats](https://github-readme-stats.vercel.app/api?username=reyx&show_icons=true&theme=merko)](https://github.com/reyx)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyx&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
